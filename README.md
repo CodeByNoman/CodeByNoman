@@ -48,21 +48,9 @@ Take a break and enjoy a fun game! 🌟
 
 [![Play Tic-Tac-Toe](https://img.shields.io/badge/Play%20Tic--Tac--Toe-FF5733?style=flat&logo=gamepad&logoColor=white)](https://tic-tac-toe.com)
 
----
-
-## 📊 **GitHub Stats & Contribution Overview**
-
-### 🌍 **GitHub Stats**:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nomanahmad&show_icons=true&hide=prs&count_private=true&theme=radical)
 
 ---
 
-### 🔥 **Interactive Contribution Graph**:
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=nomanahmad&theme=dark)
-
----
 
 ## 🧑‍🔬 **Publications**
 
@@ -95,6 +83,7 @@ Take a break and enjoy a fun game! 🌟
 
 ---
 
+
 ## 🎨 **Visualizing My Work**
 
 ### **Skillset Graph**:
@@ -106,3 +95,4 @@ pie
     "GIS" : 30
     "Remote Sensing" : 20
     "Data Science" : 10
+
